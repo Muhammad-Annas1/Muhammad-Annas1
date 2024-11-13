@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on frontend development, graphic designing.
 - 📫 Reach me at Linkedin.com https://www.linkedin.com/in/muhammad-annas-1266652a1/ 
 - 😄 Pronouns: Annas
-- ⚡ Fun fact: Front-end developer gaining experience in Next.js, React, TypeScript, Tailwind CSS, and ShadcnUI. Enjoys exploring new things and starting new projects – sometimes building countdown timer, expense trackers, and recently, a recipe search and birthday wish app! 🎉
+- ⚡ Fun fact: Front-end developer gaining experience in Next.js, React, TypeScript, Tailwind CSS, and ShadcnUI. Enjoys exploring new things and starting new projects – sometimes building countdown timer, expense trackers, and recently, a recipe search and birthday wish app! 🎉.
       Another fun fact is that I prefer to communicate in Roman Urdu!😄
 <!---
 Muhammad-Annas1/Muhammad-Annas1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
