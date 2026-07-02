@@ -24,7 +24,8 @@ Web Developer | Graphic Designer | Content Writer | Agentic AI
 - 💼 Freelancer
 - 🌱 Currently learning **Agentic AI, Next.js, React, TypeScript, Tailwind CSS, HTML, CSS, & Python**
 - 💬 Prefer to communicate in **English** & **Roman Urdu**
-  ** Reach Me At **
+---
+**Reach Me At**
 - 🌐 Portfolio: https://official-portfolio-wheat.vercel.app/
 - 💼 LinkedIn: https://www.linkedin.com/in/muhammad-annas-1266652a1/
 
