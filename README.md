@@ -19,11 +19,13 @@ Web Developer | Graphic Designer | Content Writer | Agentic AI
 
 ## 👋 About Me
 - 📍 Student at **GIAIC**
-- 💻 Web Developer passionate about modern UI, Responsiveness & performance
+- 💻 Web Developer passionate about modern UI, responsiveness & performance
 - 🎨 Graphic Designer & ✍️ Content Writer
 - 💼 Freelancer
 - 🌱 Currently learning **Agentic AI, Next.js, React, TypeScript, Tailwind CSS, HTML, CSS, & Python**
 - 💬 Prefer to communicate in **English** & **Roman Urdu**
+- 🌐 Portfolio: https://official-portfolio-wheat.vercel.app/
+- 💼 LinkedIn: https://www.linkedin.com/in/muhammad-annas-1266652a1/
 
 ---
 
