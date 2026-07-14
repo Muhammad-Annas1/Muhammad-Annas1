@@ -28,10 +28,10 @@ Web Developer | Graphic Designer | Content Writer | Agentic AI
 
 ## 📬 Let's Connect
 
-🌐 Portfolio: https://official-portfolio-wheat.vercel.app
-💼 LinkedIn: https://www.linkedin.com/in/muhammad-annas-1266652a1
-𝕏 X (Twitter): https://x.com/Muhamma17525923
----
+- 🌐 **Portfolio:** <https://official-portfolio-wheat.vercel.app>
+- 💼 **LinkedIn:** <https://www.linkedin.com/in/muhammad-annas-1266652a1>
+- 𝕏 **X (Twitter):** <https://x.com/Muhamma17525923>
+--- 
 
 ## 🛠 Tech Stack
 <p align="center">
